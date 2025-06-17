@@ -24,7 +24,7 @@ body {
 .titulo-principal {
     font-family: var(--roboto-mono);
     font-size: 32px;
-    A
+    
 }
 
 .titulo-secundario {
@@ -43,6 +43,7 @@ body {
     background: var(--fundo-senha);
     padding: 24px;
     border-bottom: 6px solid var(--borda);
+    color: aqua;
 }
 
 #campo-senha {
@@ -56,6 +57,7 @@ body {
 
 #campo-senha:focus {
     outline: none;
+    color: aqua;
 }
 
 .conteudo {
@@ -140,21 +142,24 @@ label {
 .fraca {
     width: 25%;
     background-color: #E71B32;
+    color: aqua;
 }
 
 .media {
     background-color: #FAF408;
     width: 50%;
+    color: aqua;
 }
 
 .forte {
     background-color: #00FF85;
     width: 100%;
-}
+    color: aqua;}
 
 .parametro-senha-textos {
     display: flex;
     justify-content: space-between;
+    color: aqua;
 }
 
 
