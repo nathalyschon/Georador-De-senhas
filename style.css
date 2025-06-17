@@ -73,10 +73,12 @@ body {
 .parametro-titulo {
     font-family: var(--roboto-mono);
     font-size: 28px;
+    color: aqua;
 }
 
 .parametro-senha__titulo {
     font-size: 24px;
+    color: aqua;
 }
 
 .parametro-coluna__senha {
@@ -97,7 +99,7 @@ body {
 
 .parametro-senha__botao {
     background-color: var(--fundo-texto);
-    color: var(--branco);
+    color: aqua;
     border: 2px solid var(--borda);
     padding: 24px;
     font-size: 24px;
@@ -110,6 +112,7 @@ body {
     border-bottom: 2px solid var(--borda);
     margin: 0;
     font-size: 24px;
+    color: aqua;
 }
 
 label {
