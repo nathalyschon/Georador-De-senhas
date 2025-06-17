@@ -24,15 +24,18 @@ body {
 .titulo-principal {
     font-family: var(--roboto-mono);
     font-size: 32px;
+    A
 }
 
 .titulo-secundario {
     font-size: 24px;
+    color: aqua;
 }
 
 .conteudo-titulo {
     text-align: center;
     margin-top: 80px;
+    color: aqua;
 }
 
 .conteudo-senha {
@@ -45,7 +48,7 @@ body {
 #campo-senha {
     background-color: var(--fundo-senha);
     border: none;
-    color: var(--branco);
+    color: aqua;
     font-family: var(--roboto-mono);
     font-size: 40px;
     width: 70%;
