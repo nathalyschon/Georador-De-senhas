@@ -63,6 +63,7 @@ body {
 .conteudo {
     max-width: 1200px;
     margin: 0 auto;
+    color: aqua;
 }
 
 .parametro {
@@ -70,6 +71,7 @@ body {
     border: 2px solid var(--borda);
     margin-top: 32px;
     padding: 24px;
+    color: aqua;
 }
 
 .parametro-titulo {
@@ -87,16 +89,19 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    color: aqua;
 }
 
 .parametro-senha {
     width: 50%;
     margin: 0 auto;
+    color: aqua;
 }
 
 .parametro-senha-botoes {
     display: flex;
     justify-content: center;
+    color: aqua;
 }
 
 .parametro-senha__botao {
@@ -119,18 +124,21 @@ body {
 
 label {
     font-size: 20px;
+    color: aqua;
 }
 
 .checkbox {
     width: 20px;
     height: 20px;
     cursor: pointer;
+    color: aqua;
 }
 
 .barra {
     background-color: var(--fundo-senha);
     height: 30px;
     width: 100%;
+
 }
 
 .forca {
